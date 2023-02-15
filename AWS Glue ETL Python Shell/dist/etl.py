@@ -1,3 +1,5 @@
+
+#Import libraries 
 import psycopg2
 
 #Obtaining the connection to RedShift
